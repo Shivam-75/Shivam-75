@@ -12,9 +12,7 @@
 
 - 🤝 Client Project [Pathology Management System](https://pathology-project-h8k5.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolios-ss-projects-38a3890a.vercel.app/](https://portfolios-ss-projects-38a3890a.vercel.app/)
-
-- 📝 I regularly write articles on [Blood Link](Blood Link)
+- 👨‍💻 All of my projects are available at [Portfolio](https://new-portfolios-orcin.vercel.app/)
 
 - 📫 How to reach me **shivam6386000621@gmail.com**
 
