@@ -81,6 +81,7 @@ A lab management platform for tests, reports, patients, and staff workflows.
 **Email:** shivam6386000621@gmail.com  
 **Portfolio:** https://new-portfolios-orcin.vercel.app/  
 **GitHub:** https://github.com/shivam-75  
+**Linkdin:** www.linkedin.com/in/shivam-75github
 **Resume:** [View Resume](https://drive.google.com/file/d/1vc1zi641_d4YqfjANSvkt99P4bzg5wr0/view)
 
 ---
