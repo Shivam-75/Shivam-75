@@ -1,96 +1,100 @@
-<!-- Header -->
-<h1 align="center">Shivam Pandey</h1>
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm <span style="color:#1F6FEB;">Shivam Pandey</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=1F6FEB&center=true&width=600&lines=Shivam+Pandey;Full+Stack+Developer;MERN+Stack+Engineer" alt="typing"
-/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=1F6FEB&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;API+Architect;Clean+Code+Advocate" />
 </p>
 
+<!-- Profile Image -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4743c651-cdd5-4b78-877c-57ca8e4570b1"
-       height="350"
-       style="border-radius:20px;" />
+       height="280"
+       style="border-radius:50%; box-shadow:0px 0px 12px rgba(0,0,0,0.4);" />
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-I am a Full Stack Developer focused on building scalable, maintainable, and high-performance web applications.  
-Strong experience with the MERN stack, API design, database modelling, and production deployments. I emphasize clean architecture, testability, and reliable APIs.
+I am a passionate **Full Stack Developer** specializing in scalable and maintainable web applications.  
+I focus on:
+
+- MERN Stack (React + Node + MongoDB)
+- API Design & Optimization  
+- Clean Architecture & Best Practices  
+- Production-ready Deployments  
+- Scalable Systems with High Code Quality  
 
 ---
 
-## 🌟 NPM — Highlighted (works reliably)
+## 🌟 NPM — Verified Contributor
 
 <div align="center">
 
-<!-- Verified NPM badge (shields.io) -->
 <a href="https://www.npmjs.com/~shivam-pandey" target="_blank">
-  <img src="https://img.shields.io/badge/NPM%20Contributor-Verified-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="npm-badge" />
+  <img src="https://img.shields.io/badge/NPM%20Contributor-Verified-CC3534?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
-<!-- Reliable image/card under NPM using capsule-render (GitHub-friendly) -->
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=CC3534&height=80&section=header&text=NPM+Contributor&fontSize=20&fontWeight=600" width="60%" alt="npm-card"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=CC3534&height=80&section=header&text=NPM+Contributor&fontSize=20&fontWeight=600" width="60%" />
 </p>
 
-**Profile:** https://www.npmjs.com/~shivam-pandey
+### 🔗 Profile: https://www.npmjs.com/~shivam-pandey
 
 </div>
 
 ---
 
-## 📁 Key Projects
+## 📁 Featured Projects
 
-### Blood Bank Management System
-
+### 🔥 Blood Bank Management System  
 🔗 Live: https://blood-bank-gk62.vercel.app/  
-A platform for donor management, inventory tracking, request handling, and admin workflows.
-
-### Pathology Management System
-
-🔗 Client: https://pathology-project-h8k5.vercel.app/  
-A lab management platform for tests, reports, patients, and staff workflows.
+A complete solution for blood donation workflow, donor records, inventory, and admin operations.
 
 ---
 
-## 🛠️ Technical Skills
+### 🧪 Pathology Management System  
+🔗 Client: https://pathology-project-h8k5.vercel.app/  
+Handles lab tests, patient reports, users & staff workflows with clean architecture.
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs, Authentication, Role-based Authorization  
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Role-based Authorization  
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, Linux, Docker, Postman, Figma
+**Tools:** Git, Docker, Linux, Postman, Figma  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,mysql,linux,docker,figma,git" alt="skills" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,mysql,linux,docker,figma,git" />
+</div>
 
 ---
 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-75&show_icons=true&hide_border=true" height="150" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-75&layout=compact&hide_border=true" height="150" alt="top-langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam-75&hide_border=true" height="170" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-75&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-75&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam-75&theme=github-dark&hide_border=true" height="170" />
 </div>
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-**Email:** shivam6386000621@gmail.com  
-**Portfolio:** https://new-portfolios-orcin.vercel.app/  
-**GitHub:** https://github.com/shivam-75  
-**Linkdin:** www.linkedin.com/in/shivam-75github  
-**Resume:** [View Resume](https://drive.google.com/file/d/1vc1zi641_d4YqfjANSvkt99P4bzg5wr0/view)
+📧 **Email:** shivam6386000621@gmail.com  
+🌐 **Portfolio:** https://new-portfolios-orcin.vercel.app/  
+🐙 **GitHub:** https://github.com/shivam-75  
+🔗 **LinkedIn:** www.linkedin.com/in/shivam-75github  
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1vc1zi641_d4YqfjANSvkt99P4bzg5wr0/view)
 
 ---
 
-<!-- Animated footer (works on GitHub) -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=80&section=footer" width="100%" alt="footer-wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=80&section=footer" width="100%" />
 </p>
 
-<p align="center">Thank you for visiting.</p>
+<p align="center">💙 Thanks for visiting my profile!</p>
