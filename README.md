@@ -3,12 +3,10 @@
 <h3 align="center">Full Stack Developer • MERN Stack • Backend Engineering</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=1F6FEB&center=true&width=600&lines=Shivam+Pandey;Full+Stack+Developer;MERN+Stack+Engineer" alt="typing" />
+</p>
  ![Uploading d0603755-d65b-43f7-87ab-3969466e4753.jpg…]()
 
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="360" alt="coding" />
-</p>
 
 ---
 
