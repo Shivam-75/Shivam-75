@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=1F6FEB&center=true&width=600&lines=Shivam+Pandey;Full+Stack+Developer;MERN+Stack+Engineer" alt="typing" />
-</p>
- ![Uploading d0603755-d65b-43f7-87ab-3969466e4753.jpg…]()
+</p>  
 
+![d0603755-d65b-43f7-87ab-3969466e4753](https://github.com/user-attachments/assets/4743c651-cdd5-4b78-877c-57ca8e4570b1)
 
 ---
 
