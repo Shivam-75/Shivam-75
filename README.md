@@ -88,7 +88,7 @@ Handles lab tests, patient reports, users & staff workflows with clean architect
 🌐 **Portfolio:** https://new-portfolios-orcin.vercel.app/  
 🐙 **GitHub:** https://github.com/shivam-75  
 🔗 **LinkedIn:** www.linkedin.com/in/shivam-75github  
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1vc1zi641_d4YqfjANSvkt99P4bzg5wr0/view)
+📄 **Resume:** [View Resume](https://new-portfolios-orcin.vercel.app/Shivam_Resume.pdf)
 
 ---
 
