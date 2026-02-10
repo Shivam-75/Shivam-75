@@ -31,7 +31,7 @@ I focus on:
 
 <div align="center">
 
-<a href="https://www.npmjs.com/~shivam-pandey" target="_blank">
+<a href="https://www.npmjs.com/package/crt-server" target="_blank">
   <img src="https://img.shields.io/badge/NPM%20Contributor-Verified-CC3534?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
@@ -40,7 +40,7 @@ I focus on:
 </p>
 
 ### 🔗 Profile: https://www.npmjs.com/~shivam-pandey
-###   show Package : https://www.npmjs.com/package/backend-cli-folder-creater?activeTab=readme
+###   show Package : https://www.npmjs.com/package/crt-server
 
 </div>
 
