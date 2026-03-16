@@ -15,7 +15,6 @@ I focus on:
 - Production-ready Deployments  
 - Scalable Systems with High Code Quality  
 
----
 
 ## 🌟 NPM — Verified Contributor
 
