@@ -1,10 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <span style="color:#1F6FEB;">Shivam Pandey</span></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=1F6FEB&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;API+Architect;Clean+Code+Advocate" />
-</p>
-
 <!-- Profile Image -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4743c651-cdd5-4b78-877c-57ca8e4570b1"
