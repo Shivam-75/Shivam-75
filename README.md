@@ -1,12 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <span style="color:#1F6FEB;">Shivam Pandey</span></h1>
 
-<!-- Profile Image -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4743c651-cdd5-4b78-877c-57ca8e4570b1"
-       height="280"
-       style="border-radius:50%; box-shadow:0px 0px 12px rgba(0,0,0,0.4);" />
-</div>
 
 ---
 
